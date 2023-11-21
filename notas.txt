@@ -1,0 +1,9 @@
+
+Comandos para moverse en consola
+
+cd - moverse entre carpetas
+nano - sobreescribir en archivos
+touch - crear archivos
+mkdir - crear un directorio
+pwd - ruta sobre la que estamos 
+ls - saber que archivos contiene una carpeta 
